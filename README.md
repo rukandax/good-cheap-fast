@@ -1,4 +1,4 @@
-# good-cheap-fast
+# Good - Cheap - Fast Decision Maker
 
 ## Project setup
 ```
